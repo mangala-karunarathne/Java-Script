@@ -1,0 +1,1 @@
+document.getElementById("text").innerHTML = " Civil Industry is in Trouble within the Next Decade"
